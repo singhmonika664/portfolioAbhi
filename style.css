@@ -1,0 +1,16 @@
+h1 {
+    color:goldenrod;
+}
+
+* {
+    border: dashed;
+    border-width: 0.5px;
+    border-color: indianred;
+}
+h2{
+    color: indigo;
+}
+.header{
+    background-color: aquamarine;
+
+}
